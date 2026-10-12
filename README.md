@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I'm currently working on AI/ML applications, computer vision, and predictive modelling.<br><br>👯 I'm looking to collaborate on AI/ML, Data Science, and open-source projects.<br><br>🤝 I'm looking for help with deep learning, model optimization, and deploying ML models.<br><br>🌱 I'm currently learning advanced machine learning, data analysis, and DSA.<br><br>💬 Ask me about Python, Scikit-learn, PyTorch, OpenCV, Pandas, and NumPy.<br><br>⚡ Fun fact: I secured 3rd place at the Invade-X university hackathon by building an MVP within 24 hours!
+#  About Me:
+ I'm currently working on AI/ML applications, computer vision, and predictive modelling.<br><br> I'm looking to collaborate on AI/ML, Data Science, and open-source projects.<br><br> I'm looking for help with deep learning, model optimization, and deploying ML models.<br><br> I'm currently learning advanced machine learning, data analysis, and DSA.<br><br> Ask me about Python, Scikit-learn, PyTorch, OpenCV, Pandas, and NumPy.<br><br> 
 
 
 ## 🌐 Socials:
